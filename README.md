@@ -19,7 +19,8 @@ Si j'ai besoin de faire des réparations après le controle j'ai 2 mois pour la 
 ## Distance arret
 chiffre des dizaines au carré
 110 km/h -> 120m
-
+## Reaction
+1 s = chifre des dizaines de ma vvitesse * 3
 
 # punition etc
 ## Delit
@@ -32,6 +33,8 @@ chiffre des dizaines au carré
 2 ans -> 12 ans points (3 ans pour le classique)
 
 En gros 2 points par ans pour les traditionnelles 3 pts pout les aac
+
+- 3 points en permis probatoire == stage
 
 # Random
 Remorque 750 kg max
