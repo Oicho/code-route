@@ -32,3 +32,7 @@ chiffre des dizaines au carré
 2 ans -> 12 ans points (3 ans pour le classique)
 
 En gros 2 points par ans pour les traditionnelles 3 pts pout les aac
+
+# Random
+Remorque 750 kg max
+total entr 3,5 t et 4.25t
