@@ -3,6 +3,9 @@
 # Perte de point
 Perte de 5 pts pour contraventions mineures (Inférieur class 4) cb de temps pour ravoir les points --> 2 ans
 Changer de  direction sans prévenir.
+Pas d assurance == delit
+
+Griller un feu rouge: 4 points amende de 4 eme classe
 
 # Circulation soutenue
 Je ne peux pas changer de voie pour avancer plus vite. Je peux changer de voie pour prendre une sortie
